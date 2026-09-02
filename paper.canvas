@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"1084bc6643c99c6f","type":"text","text":"## 人形","x":320,"y":194,"width":100,"height":66},
+		{"id":"acb15335f3c51ba9","type":"file","file":"paper card/2026.02 HuMI.md","x":720,"y":-6,"width":400,"height":400},
+		{"id":"89d19d344b791461","type":"file","file":"paper card/2026.03 HoMMI.md","x":720,"y":440,"width":400,"height":400},
+		{"id":"e976f13a29fef1d0","type":"file","file":"paper card/2024.07 UMI-on-legs.md","x":720,"y":-480,"width":400,"height":400},
+		{"id":"cbefbdf5e7ffee1e","type":"file","file":"paper card/2024.02 UMI.md","x":-280,"y":-206,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"807a115f2a9d0f37","fromNode":"cbefbdf5e7ffee1e","fromSide":"right","toNode":"e976f13a29fef1d0","toSide":"left","label":"四足"},
+		{"id":"fc0680da5cde2765","fromNode":"cbefbdf5e7ffee1e","fromSide":"right","toNode":"1084bc6643c99c6f","toSide":"left","label":"人形"},
+		{"id":"4cdc9fb0dc6b24b6","fromNode":"1084bc6643c99c6f","fromSide":"right","toNode":"acb15335f3c51ba9","toSide":"left"},
+		{"id":"0eccdeafbc67f0c6","fromNode":"1084bc6643c99c6f","fromSide":"right","toNode":"89d19d344b791461","toSide":"left"}
+	]
+}

@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "39de011cdcd346f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5a3fd9a872549b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "533407d430864fa7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "paper card/Retarget.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Retarget"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ead77b27f8b2a4c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "c25970a2aad79462",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e1c5e1855e24eb2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "394fd7baa2f63bfa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "30520db9ae6c1c63",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 375.1000061035156
+  },
+  "right": {
+    "id": "35be3f1bce4cec97",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac6f9001917c2054",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b5bbd99570ddb5d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "paper.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "9ca55a09712ab4de",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "paper.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "3babbc4f4645d24a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "26afd951af858b65",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "6a1e71b88f40e583",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "paper.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "533407d430864fa7",
+  "lastOpenFiles": [
+    "paper collection/Retarget/2025.10 GMR.pdf",
+    "paper card/Retarget.md",
+    "paper card/2011.03 DAgger.md",
+    "paper collection/未命名",
+    "paper collection/Loco-manipulation/UMI/2025.10 UMI on air.pdf",
+    "paper.canvas",
+    "paper collection/Imitation Learning/2020.06 AWAC.pdf",
+    "paper collection/Imitation Learning/2011.03 DAgger.pdf",
+    "paper collection/Imitation Learning/2021.04 AMP.pdf",
+    "paper card/2026.03 HoMMI.md",
+    "paper collection/Imitation Learning",
+    "paper card/2026.02 HuMI.md",
+    "paper card/2024.07 UMI-on-legs.md",
+    "paper card/2024.02 UMI.md",
+    "paper collection/Loco-manipulation/UMI/2026.05 BifrostUMI.pdf",
+    "paper collection/Algorithm",
+    "paper collection/Algorithm/Diffusion",
+    "欢迎.md"
+  ]
+}
