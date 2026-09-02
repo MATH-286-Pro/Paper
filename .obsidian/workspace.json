@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "d5a3fd9a872549b0",
+        "id": "9e228040bcef73f1",
         "type": "tabs",
         "children": [
           {
-            "id": "533407d430864fa7",
+            "id": "b4537995e9c831d8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "paper card/Retarget.md",
-                "mode": "source",
-                "source": false
+                "file": "paper.canvas",
+                "viewState": {
+                  "x": 420,
+                  "y": 180,
+                  "zoom": -0.9763487319353548
+                }
               },
-              "icon": "lucide-file",
-              "title": "Retarget"
+              "icon": "lucide-layout-dashboard",
+              "title": "paper"
             }
           }
         ]
@@ -188,14 +191,16 @@
       "bases:新建数据库": false
     }
   },
-  "active": "533407d430864fa7",
+  "active": "b4537995e9c831d8",
   "lastOpenFiles": [
-    "paper collection/Retarget/2025.10 GMR.pdf",
+    "paper collection/2024.06 CMU OmniH2O.pdf",
     "paper card/Retarget.md",
+    "paper collection/Retarget/2023.05 HPC.pdf",
+    "paper.canvas",
+    "paper collection/Retarget/2025.10 GMR.pdf",
     "paper card/2011.03 DAgger.md",
     "paper collection/未命名",
     "paper collection/Loco-manipulation/UMI/2025.10 UMI on air.pdf",
-    "paper.canvas",
     "paper collection/Imitation Learning/2020.06 AWAC.pdf",
     "paper collection/Imitation Learning/2011.03 DAgger.pdf",
     "paper collection/Imitation Learning/2021.04 AMP.pdf",
@@ -205,8 +210,6 @@
     "paper card/2024.07 UMI-on-legs.md",
     "paper card/2024.02 UMI.md",
     "paper collection/Loco-manipulation/UMI/2026.05 BifrostUMI.pdf",
-    "paper collection/Algorithm",
-    "paper collection/Algorithm/Diffusion",
     "欢迎.md"
   ]
 }
