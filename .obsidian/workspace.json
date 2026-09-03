@@ -11,17 +11,14 @@
             "id": "b4537995e9c831d8",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "paper.canvas",
-                "viewState": {
-                  "x": 420,
-                  "y": 180,
-                  "zoom": -0.9763487319353548
-                }
+                "file": "paper card/2026.08 UFO.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "paper"
+              "icon": "lucide-file",
+              "title": "2026.08 UFO"
             }
           }
         ]
@@ -191,12 +188,15 @@
       "bases:新建数据库": false
     }
   },
-  "active": "b4537995e9c831d8",
+  "active": "1e1c5e1855e24eb2",
   "lastOpenFiles": [
-    "paper collection/2024.06 CMU OmniH2O.pdf",
+    "paper card/机器人技术.md",
+    "paper card/2026.08 UFO.md",
     "paper card/Retarget.md",
-    "paper collection/Retarget/2023.05 HPC.pdf",
     "paper.canvas",
+    "paper collection/2026.03 DiT4DiT.pdf",
+    "paper collection/2024.06 CMU OmniH2O.pdf",
+    "paper collection/Retarget/2023.05 HPC.pdf",
     "paper collection/Retarget/2025.10 GMR.pdf",
     "paper card/2011.03 DAgger.md",
     "paper collection/未命名",
@@ -209,7 +209,6 @@
     "paper card/2026.02 HuMI.md",
     "paper card/2024.07 UMI-on-legs.md",
     "paper card/2024.02 UMI.md",
-    "paper collection/Loco-manipulation/UMI/2026.05 BifrostUMI.pdf",
     "欢迎.md"
   ]
 }
